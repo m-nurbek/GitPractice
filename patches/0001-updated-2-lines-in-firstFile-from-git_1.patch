@@ -1,0 +1,24 @@
+From bdd7e1824696c130cf2bc435456560f2bfcfa67f Mon Sep 17 00:00:00 2001
+From: Nurbek <nurbek.malikov@nu.edu.kz>
+Date: Thu, 22 Aug 2024 16:07:04 +0500
+Subject: [PATCH] updated 2 lines in firstFile from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 7b7a3ee..db7e24c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-hello
+-my
++hello dear!
++My
+ name
+ is
+ Nurbek
+-- 
+2.39.1.windows.1
+
