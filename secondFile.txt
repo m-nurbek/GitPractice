@@ -1,0 +1,10 @@
+Hi
+This
+is
+file 2
+and
+here
+are 
+another
+10
+lines
