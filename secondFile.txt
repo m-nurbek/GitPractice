@@ -1,2 +1,14 @@
+Hi
+This
+is
+file 2
+and
+here
+are 
+another
+10
+lines
+Here are another
+2 lines after merge
 Hello from git_1
 He he he
