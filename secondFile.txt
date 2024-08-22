@@ -8,3 +8,5 @@ are
 another
 10
 lines
+Here are another
+2 lines after merge
